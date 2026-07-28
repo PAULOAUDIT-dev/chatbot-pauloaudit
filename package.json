@@ -1,0 +1,6 @@
+{
+  "name": "chatbot-pauloaudit",
+  "version": "1.0.0",
+  "description": "Backend seguro para o chatbot do Hub PauloAudit",
+  "private": true
+}
